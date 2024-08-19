@@ -1,0 +1,15 @@
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\bin\Debug\net6.0\Mergeathan.exe
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\bin\Debug\net6.0\Mergeathan.deps.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\bin\Debug\net6.0\Mergeathan.runtimeconfig.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\bin\Debug\net6.0\Mergeathan.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\bin\Debug\net6.0\Mergeathan.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\Mergeathan.csproj.AssemblyReference.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\Mergeathan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\Mergeathan.AssemblyInfoInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\Mergeathan.AssemblyInfo.cs
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\Mergeathan.csproj.CoreCompileInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\Mergeathan.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\refint\Mergeathan.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\Mergeathan.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\Mergeathan.genruntimeconfig.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Mergeathan\Mergeathan\obj\Debug\net6.0\ref\Mergeathan.dll
