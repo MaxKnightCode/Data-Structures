@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ggI7w/QM92ah1RkqGmVXx6NiOJnt6jc7Y8lbDdYNSkNuGYz6ZC/ycBbvEQt04oCpmU6fTqSvAVXj/ZeL7mEJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxto\\OneDrive\\Documents\\CodingCrap\\NormalAssGraph\\NormalAssGraph\\NormalAssGraph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxto\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

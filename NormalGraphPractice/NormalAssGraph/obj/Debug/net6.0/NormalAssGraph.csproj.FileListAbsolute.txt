@@ -1,0 +1,17 @@
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\NormalAssGraph.csproj.AssemblyReference.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\NormalAssGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\NormalAssGraph.AssemblyInfoInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\NormalAssGraph.AssemblyInfo.cs
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\NormalAssGraph.csproj.CoreCompileInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\bin\Debug\net6.0\NormalAssGraph.exe
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\bin\Debug\net6.0\NormalAssGraph.deps.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\bin\Debug\net6.0\NormalAssGraph.runtimeconfig.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\bin\Debug\net6.0\NormalAssGraph.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\bin\Debug\net6.0\NormalAssGraph.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\NormalAssGraph.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\refint\NormalAssGraph.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\NormalAssGraph.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\NormalAssGraph.genruntimeconfig.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\ref\NormalAssGraph.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\NormalAssGraph\NormalAssGraph\obj\Debug\net6.0\NormalAssGraph.csproj.CopyComplete
