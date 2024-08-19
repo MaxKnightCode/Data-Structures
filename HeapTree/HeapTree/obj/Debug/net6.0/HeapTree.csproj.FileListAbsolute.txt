@@ -1,0 +1,15 @@
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\bin\Debug\net6.0\HeapTree.exe
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\bin\Debug\net6.0\HeapTree.deps.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\bin\Debug\net6.0\HeapTree.runtimeconfig.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\bin\Debug\net6.0\HeapTree.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\bin\Debug\net6.0\HeapTree.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\HeapTree.csproj.AssemblyReference.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\HeapTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\HeapTree.AssemblyInfoInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\HeapTree.AssemblyInfo.cs
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\HeapTree.csproj.CoreCompileInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\HeapTree.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\refint\HeapTree.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\HeapTree.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\HeapTree.genruntimeconfig.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\HeapTree\HeapTree\obj\Debug\net6.0\ref\HeapTree.dll
