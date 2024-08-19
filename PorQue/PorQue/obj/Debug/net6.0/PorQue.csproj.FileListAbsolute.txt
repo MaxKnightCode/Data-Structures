@@ -1,0 +1,15 @@
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\PorQue.csproj.AssemblyReference.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\PorQue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\PorQue.AssemblyInfoInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\PorQue.AssemblyInfo.cs
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\PorQue.csproj.CoreCompileInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\bin\Debug\net6.0\PorQue.exe
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\bin\Debug\net6.0\PorQue.deps.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\bin\Debug\net6.0\PorQue.runtimeconfig.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\bin\Debug\net6.0\PorQue.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\bin\Debug\net6.0\PorQue.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\PorQue.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\refint\PorQue.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\PorQue.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\PorQue.genruntimeconfig.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\PorQue\PorQue\obj\Debug\net6.0\ref\PorQue.dll
