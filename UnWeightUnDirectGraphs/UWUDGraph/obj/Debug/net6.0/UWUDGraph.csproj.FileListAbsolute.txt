@@ -1,0 +1,15 @@
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\bin\Debug\net6.0\UWUDGraph.exe
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\bin\Debug\net6.0\UWUDGraph.deps.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\bin\Debug\net6.0\UWUDGraph.runtimeconfig.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\bin\Debug\net6.0\UWUDGraph.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\bin\Debug\net6.0\UWUDGraph.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\UWUDGraph.csproj.AssemblyReference.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\UWUDGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\UWUDGraph.AssemblyInfoInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\UWUDGraph.AssemblyInfo.cs
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\UWUDGraph.csproj.CoreCompileInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\UWUDGraph.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\refint\UWUDGraph.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\UWUDGraph.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\UWUDGraph.genruntimeconfig.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\UWUDGraph\UWUDGraph\obj\Debug\net6.0\ref\UWUDGraph.dll

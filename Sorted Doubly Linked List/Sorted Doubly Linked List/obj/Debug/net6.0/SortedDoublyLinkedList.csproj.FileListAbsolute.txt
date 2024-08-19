@@ -1,0 +1,15 @@
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\bin\Debug\net6.0\SortedDoublyLinkedList.exe
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\bin\Debug\net6.0\SortedDoublyLinkedList.deps.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\bin\Debug\net6.0\SortedDoublyLinkedList.runtimeconfig.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\bin\Debug\net6.0\SortedDoublyLinkedList.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\bin\Debug\net6.0\SortedDoublyLinkedList.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\SortedDoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\SortedDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\SortedDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\SortedDoublyLinkedList.AssemblyInfo.cs
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\SortedDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\SortedDoublyLinkedList.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\refint\SortedDoublyLinkedList.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\SortedDoublyLinkedList.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\SortedDoublyLinkedList.genruntimeconfig.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\Sorted Doubly Linked List\Sorted Doubly Linked List\obj\Debug\net6.0\ref\SortedDoublyLinkedList.dll
