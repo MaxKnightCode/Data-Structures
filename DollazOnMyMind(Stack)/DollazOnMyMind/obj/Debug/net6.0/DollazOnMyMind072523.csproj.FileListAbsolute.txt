@@ -1,0 +1,15 @@
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\bin\Debug\net6.0\DollazOnMyMind072523.exe
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\bin\Debug\net6.0\DollazOnMyMind072523.deps.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\bin\Debug\net6.0\DollazOnMyMind072523.runtimeconfig.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\bin\Debug\net6.0\DollazOnMyMind072523.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\bin\Debug\net6.0\DollazOnMyMind072523.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\DollazOnMyMind072523.csproj.AssemblyReference.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\DollazOnMyMind072523.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\DollazOnMyMind072523.AssemblyInfoInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\DollazOnMyMind072523.AssemblyInfo.cs
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\DollazOnMyMind072523.csproj.CoreCompileInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\DollazOnMyMind072523.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\refint\DollazOnMyMind072523.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\DollazOnMyMind072523.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\DollazOnMyMind072523.genruntimeconfig.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\DollazOnMyMind\DollazOnMyMind\obj\Debug\net6.0\ref\DollazOnMyMind072523.dll
