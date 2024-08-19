@@ -1,0 +1,15 @@
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\bin\Debug\net6.0\TriesProject.exe
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\bin\Debug\net6.0\TriesProject.deps.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\bin\Debug\net6.0\TriesProject.runtimeconfig.json
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\bin\Debug\net6.0\TriesProject.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\bin\Debug\net6.0\TriesProject.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\TriesProject.csproj.AssemblyReference.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\TriesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\TriesProject.AssemblyInfoInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\TriesProject.AssemblyInfo.cs
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\TriesProject.csproj.CoreCompileInputs.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\TriesProject.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\refint\TriesProject.dll
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\TriesProject.pdb
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\TriesProject.genruntimeconfig.cache
+C:\Users\maxto\OneDrive\Documents\CodingCrap\TriesProject\TriesProject\obj\Debug\net6.0\ref\TriesProject.dll
